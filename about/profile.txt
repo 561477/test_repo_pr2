@@ -3,3 +3,4 @@
 Био: студент
 Изменено в вебе
 Текст из main
+email: masha.kruglowa@gmail.com
